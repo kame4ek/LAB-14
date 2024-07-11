@@ -1,0 +1,3 @@
+D:/OP/OP14/cmake-build-debug/CMakeFiles/laba.dir
+D:/OP/OP14/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OP/OP14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
